@@ -8,7 +8,7 @@ Crystal Game: A number between 19 and 120 is picked.  Upto user to pick one of t
 
 # Images
 
-![Picture]
+![Picture](assets/images/CrystalGameImage.png)
 
 # Technologies used
 
